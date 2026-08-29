@@ -66,3 +66,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=0077B6&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 </p>
+
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Pixel Ocean Banner" />
+</p>
+
+<!-- JUDUL / NAMA -->
+<h1 align="center" style="font-family: 'Cinzel', serif; color: #48CAE4;">
+  Halo, Saya [Nama Kamu]
+</h1>

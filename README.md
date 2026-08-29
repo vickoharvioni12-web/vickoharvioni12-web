@@ -1,7 +1,12 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER DENGAN BACKGROUND PIXEL GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=03045E&height=220&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=38&fontAlignY=38&fontColor=48CAE4&customFontRegexPath=https://fonts.googleapis.com/css2?family=Cinzel:wght@600" width="100%" alt="Header Banner" />
+  <img src="https://i.ibb.co/Xz9xYpY/pixel-ocean-banner.gif" width="100%" alt="Pixel Ocean Banner" />
 </p>
+
+<!-- JUDUL / NAMA (MENGGUNAKAN HTML UNTUK GAYA ELEGANT) -->
+<h1 align="center" style="font-family: 'Cinzel', serif; color: #48CAE4;">
+  Halo, Saya [Nama Kamu]
+</h1>
 
 <!-- ANIMASI TEKS -->
 <p align="center">

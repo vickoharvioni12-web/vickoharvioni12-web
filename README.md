@@ -1,11 +1,16 @@
-<!-- BANNER GIF UTAMA (TEKS SUDAH MENYATU DI GAMBAR) -->
+<!-- BANNER GIF (MENGGUNAKAN LINK UPLOAD ASLI KAMU) -->
 <p align="center">
-  <img src="LINK_HASIL_UPLOAD_BARU" width="100%" alt="Halo, Saya Vicko Harvioni" />
+  <img src="https://github.com/user-attachments/assets/8557772d-b6b1-4e32-bb47-42ed57f16f89" width="100%" alt="Pixel Ocean Banner" />
 </p>
 
-<!-- ANIMASI SUB-TITLE TYPING -->
+<!-- JUDUL TEKS PIXEL NAMA -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Crafting+clean+and+elegant+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&height=40&lines=Halo%2C+Saya+Vicko+Harvioni" alt="Header Name" />
+</p>
+
+<!-- SUB-TITLE ANIMASI TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=90E0EF&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer;Web+Developer;Crafting+clean+and+elegant+code" alt="Typing SVG" />
 </p>
 
 <!-- VISITOR COUNTER -->

@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <img src="TEMPEL_LINK_HASIL_UPLOAD_BARU_DI_SINI" width="100%" alt="Halo, Saya Vicko Harvioni" />
+  <img src="https://github.com/user-attachments/assets/02745984-c30f-44e2-9dff-14ba01b8d48a" width="100%" alt="Halo, Saya Vicko Harvioni" />
 </p>

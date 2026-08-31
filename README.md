@@ -1,26 +1,43 @@
-<!-- BANNER GIF -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8557772d-b6b1-4e32-bb47-42ed57f16f89" width="100%" alt="Pixel Ocean Banner" />
 </p>
 
-<!-- JUDUL NAMA DENGAN FONT PIXEL & GRADASI WAKTU (PUTIH KE BIRU) -->
-<h1 align="center" style="font-family: 'Press Start 2P', 'Courier New', monospace; background: linear-gradient(180deg, #FFFFFF 0%, #48CAE4 60%, #0077B6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  Halo, Saya Vicko Harvioni 👋
-</h1>
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+    <defs>
+      <linearGradient id="pixelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" />
+        <stop offset="45%" stop-color="#E0F7FA" />
+        <stop offset="80%" stop-color="#48CAE4" />
+        <stop offset="100%" stop-color="#0077B6" />
+      </linearGradient>
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+        .pixel-text {
+          font-family: 'Press Start 2P', monospace;
+          font-size: 20px;
+          fill: url(#pixelGrad);
+          stroke: #03045E;
+          stroke-width: 1.5px;
+        }
+      </style>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="pixel-text">
+      Halo, Saya Vicko Harvioni 👋
+    </text>
+  </svg>
+</p>
 
-<!-- ANIMASI TEKS TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Crafting+clean+and+elegant+code" alt="Typing SVG" />
 </p>
 
-<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vickoharvioni12-web&color=0077B6&style=for-the-badge&label=Profile+Views" alt="Visitor Counter" />
 </p>
 
 <br />
 
-<!-- TENTANG SAYA -->
 ### 👤 Tentang Saya
 
 - 🔭 Saat ini sedang fokus pada **Web Development**
@@ -30,37 +47,4 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/vickoharvioni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-023E8A?style=for-the-badge&logo=linkedin&logoColor=48CAE4" />
-  </a>
-  <a href="mailto:vickoharvioni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-023E8A?style=for-the-badge&logo=gmail&logoColor=48CAE4" />
-  </a>
-</p>
-
----
-
-<!-- SKILL / TEKNOLOGI -->
-### 🛠️ Bahasa & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-03045E?style=for-the-badge&logo=html5&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/CSS3-03045E?style=for-the-badge&logo=css3&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/JavaScript-03045E?style=for-the-badge&logo=javascript&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Python-03045E?style=for-the-badge&logo=python&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Git-03045E?style=for-the-badge&logo=git&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Linux-03045E?style=for-the-badge&logo=archlinux&logoColor=00B4D8" />
-</p>
-
----
-
-<!-- STATISTIK GITHUB -->
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickoharvioni12-web&show_icons=true&bg_color=03045E&title_color=00B4D8&text_color=CAF0F8&icon_color=48CAE4&border_color=0077B6" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&bg_color=03045E&title_color=00B4D8&text_color=CAF0F8&border_color=0077B6" alt="Bahasa Populer" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickoharvioni12-web&background=03045E&ring=00B4D8&fire=48CAE4&currStreakNum=CAF0F8&currStreakLabel=00B4D8&sideNums=CAF0F8&sideLabels=90E0EF&dates=0077B6&border=0077B6" alt="GitHub Streak" width="97%" />
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-0

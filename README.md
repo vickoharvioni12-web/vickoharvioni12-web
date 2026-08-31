@@ -1,21 +1,26 @@
+<!-- BANNER GIF -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8557772d-b6b1-4e32-bb47-42ed57f16f89" width="100%" alt="Pixel Ocean Banner" />
 </p>
 
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #48CAE4;">
+<!-- JUDUL NAMA DENGAN FONT PIXEL & GRADASI WAKTU (PUTIH KE BIRU) -->
+<h1 align="center" style="font-family: 'Press Start 2P', 'Courier New', monospace; background: linear-gradient(180deg, #FFFFFF 0%, #48CAE4 60%, #0077B6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   Halo, Saya Vicko Harvioni 👋
 </h1>
 
+<!-- ANIMASI TEKS TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Crafting+clean+and+elegant+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Crafting+clean+and+elegant+code" alt="Typing SVG" />
 </p>
 
+<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vickoharvioni12-web&color=0077B6&style=for-the-badge&label=Profile+Views" alt="Visitor Counter" />
 </p>
 
 <br />
 
+<!-- TENTANG SAYA -->
 ### 👤 Tentang Saya
 
 - 🔭 Saat ini sedang fokus pada **Web Development**
@@ -34,6 +39,7 @@
 
 ---
 
+<!-- SKILL / TEKNOLOGI -->
 ### 🛠️ Bahasa & Tools
 
 <p align="left">
@@ -47,6 +53,7 @@
 
 ---
 
+<!-- STATISTIK GITHUB -->
 ### 📊 Statistik GitHub
 
 <p align="center">

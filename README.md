@@ -1,6 +1,6 @@
-<!-- BANNER GIF DENGAN TEKS PIXEL BERGRADASI DI DALAM GAMBAR -->
+<!-- BANNER GIF (ISI SRC DENGAN LINK UPLOAD HASIL EDITAN KAMU) -->
 <p align="center">
-  <img src="https://showme.red/sky-vicko-gradient.gif" width="100%" alt="Pixel Ocean Banner Vicko Harvioni" />
+  <img src="PASTE_LINK_GAMBAR_BARU_DI_SINI" width="100%" alt="Pixel Ocean Banner Vicko Harvioni" />
 </p>
 
 <!-- ANIMASI TEKS TYPING -->

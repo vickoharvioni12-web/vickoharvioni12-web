@@ -1,7 +1,14 @@
 # Hi there, I'm Vicko Harvioni 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&stroke=ffffff&strokeWidth=0&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&fontColor=ffffff" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Backend+Developer;RESTful+API+%26+Microservices;Database+%26+System+Architect;Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -28,6 +35,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Snake Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---

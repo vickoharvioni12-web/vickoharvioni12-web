@@ -54,9 +54,9 @@
 
 ---
 
-### 🏆 Profile Trophies
+### 🏆 Profile Trophies & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vickoharvioni12-web&theme=tokyonight&row=1&column=4" alt="Trophies" />
+  <img src="https://my-github-badges-amber.vercel.app/api/badges?username=vickoharvioni12-web&theme=tokyonight" alt="Badges" width="100%" />
 </p>
 
 <p align="center">

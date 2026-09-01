@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&fontColor=ffffff" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Terminal Typing Animation -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Backend+Developer;RESTful+API+%26+Microservices;Database+%26+System+Architect;Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+new+BackendDeveloper('Vicko')%3B;developer.buildScalableAPIs()%3B;developer.optimizeDatabases()%3B" alt="Terminal Typing Animation" />
   </a>
 </p>
 
@@ -39,9 +39,9 @@
 
 ---
 
-### ⚡ System Activity Status
+### ⚡ System Skill Status
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=120&section=header&text=Building%20High-Performance%20REST%20APIs...&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=120&section=header&text=Microservices%20%E2%80%A2%20RESTful%20APIs%20%E2%80%A2%20Database%20Optimization&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" />
 </p>
 
 ---

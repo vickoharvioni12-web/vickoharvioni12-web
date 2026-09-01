@@ -39,9 +39,9 @@
 
 ---
 
-### ⚡ Isometric Activity
+### ⚡ System Activity Status
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickoharvioni12-web&theme=tokyonight" alt="Isometric Chart" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=120&section=header&text=Building%20High-Performance%20REST%20APIs...&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" />
 </p>
 
 ---
@@ -53,11 +53,6 @@
 </p>
 
 ---
-
-### 🏆 Profile Trophies & Badges
-<p align="center">
-  <img src="https://my-github-badges-amber.vercel.app/api/badges?username=vickoharvioni12-web&theme=tokyonight" alt="Badges" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer" />

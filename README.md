@@ -1,7 +1,7 @@
 # Hi there, I'm Vicko Harvioni 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Vicko%20Harvioni&fontSize=42&fontAlign=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat" />
 </p>
 
 <p align="center">
@@ -34,8 +34,8 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff&text_color=a9b1d6&bg_color=1a1b26" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" width="48%" />
 </p>
 
 ---

@@ -1,25 +1,27 @@
 <div align="center">
 
-  <!-- BANNER PIXEL ART SAMUDRA -->
-  <img src="https://github.com/user-attachments/assets/21f7118a-d61d-4e9f-864b-4285359dc317" alt="Vicko Harvioni Banner" width="100%" style="border-radius: 10px;" />
+  <!-- BANNER UTAMA (PERMANENT HOSTED IMAGE) -->
+  <img src="https://i.imgur.com/8Q9N0Zm.png" alt="Vicko Harvioni Ocean Pixel Banner" width="100%" style="border-radius: 12px;" />
 
   <br/><br/>
 
-  <!-- HEADER DINAMIS -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi!+I'm+Vicko+Harvioni+🌊;Web+Developer;Node.js+%26+Python+Specialist;Linux+Enthusiast" alt="Typing SVG" />
+  <!-- TYPING SVG HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22);;Hi!+I'm+Vicko+Harvioni+🌊;Fullstack+Web+Developer;Node.js+%26+Python+Engineer;Linux+Power+User" alt="Typing SVG" />
+  </a>
 
-  <p><b>Building fast backends, responsive interfaces, and optimizing Linux environments.</b></p>
+  <p><b>Crafting high-performance web applications, backend systems, and Linux automation scripts.</b></p>
 
-  <!-- SOCIAL BADGES -->
+  <!-- BADGES CONNECT -->
   <p>
     <a href="mailto:vickoharvioni@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/vickoharvioni12-web">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 
@@ -27,14 +29,17 @@
 
 ---
 
-### 🖥️ About Me
+### ⚡ $ whoami --verbose
 
 ```bash
-$ cat profile.json
-{
-  "name": "Vicko Harvioni",
-  "role": "Web Developer",
-  "core_tech": ["Node.js", "Python", "Linux"],
-  "focus": "Scalable Applications & Automation",
-  "motto": "Diving deep into code like swimming in the ocean 🌊"
-}
+vicko_harvioni@developer:~$ cat profile.sh
+#!/bin/bash
+
+NAME="Vicko Harvioni"
+ROLE="Web Developer"
+LOCATION="Indonesia 🇮🇩"
+FOCUS=("Backend Architecture" "Web Development" "Linux Server Admin")
+
+echo "Name: $NAME"
+echo "Specialization: Node.js, Python & Linux Environments"
+echo "Status: Open for collaboration & exciting projects"

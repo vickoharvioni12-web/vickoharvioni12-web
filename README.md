@@ -64,7 +64,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickoharvioni12-web&background=03045E&ring=00B4D8&fire=48CAE4&currStreakNum=CAF0F8&currStreakLabel=00B4D8&sideNums=CAF0F8&sideLabels=90E0EF&dates=0077B6&border=0077B6" alt="GitHub Streak" width="97%" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/02745984-c30f-44e2-9dff-14ba01b8d48a" width="100%" alt="Halo, Saya Vicko Harvioni" />
-</p>

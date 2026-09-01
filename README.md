@@ -1,7 +1,7 @@
 # Hi there, I'm Vicko Harvioni 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&stroke=ffffff&strokeWidth=0&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -13,20 +13,20 @@
 <br />
 
 ### 🚀 About Me
-- 🔭 Currently building innovative web applications and scalable systems.
-- 🎯 Focused on mastering modern full-stack technologies and UI/UX engineering.
-- ⚡ Fun fact: I love transforming complex ideas into clean, functional code.
+- 🔭 Currently engineering scalable backend systems, REST APIs, and database architectures.
+- 🎯 Focused on system design, microservices, and server performance optimization.
+- ⚡ Fun fact: I enjoy turning complex business logic into efficient code.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Backend Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 

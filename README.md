@@ -1,66 +1,29 @@
-<!-- BANNER GIF (MENGGUNAKAN LINK UPLOAD ASLI KAMU) -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8557772d-b6b1-4e32-bb47-42ed57f16f89" width="100%" alt="Pixel Ocean Banner" />
-</p>
+<div align="center">
 
-<!-- JUDUL TEKS PIXEL NAMA -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&height=40&lines=Halo%2C+Saya+Vicko+Harvioni" alt="Header Name" />
-</p>
+  <!-- BANNER PROFILE -->
+  <img src="https://raw.githubusercontent.com/username/repository/main/banner.png" alt="Header Banner" width="100%" />
 
-<!-- SUB-TITLE ANIMASI TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=90E0EF&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer;Web+Developer;Crafting+clean+and+elegant+code" alt="Typing SVG" />
-</p>
+  <h1>🌊 Hi there, I'm a Web Developer! 👋</h1>
+  
+  <p><b>Backend & Frontend Specialist | Linux Enthusiast</b></p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vickoharvioni12-web&color=0077B6&style=for-the-badge&label=Profile+Views" alt="Visitor Counter" />
-</p>
+  <!-- TECH STACK BADGES -->
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
 
-<br />
-
-<!-- TENTANG SAYA -->
-### 👤 Tentang Saya
-
-- 🔭 Saat ini sedang fokus pada **Web Development**
-- 🌱 Sedang memperdalam **JavaScript & Python**
-- 💬 Tanyakan saya tentang **HTML, CSS, dan Git**
-- 📫 Hubungi saya via Email: **vickoharvioni@gmail.com**
-
-<p align="left">
-  <a href="https://linkedin.com/in/vickoharvioni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-023E8A?style=for-the-badge&logo=linkedin&logoColor=48CAE4" />
-  </a>
-  <a href="mailto:vickoharvioni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-023E8A?style=for-the-badge&logo=gmail&logoColor=48CAE4" />
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- SKILL / TEKNOLOGI -->
-### 🛠️ Bahasa & Tools
+### 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-03045E?style=for-the-badge&logo=html5&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/CSS3-03045E?style=for-the-badge&logo=css3&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/JavaScript-03045E?style=for-the-badge&logo=javascript&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Python-03045E?style=for-the-badge&logo=python&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Git-03045E?style=for-the-badge&logo=git&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Linux-03045E?style=for-the-badge&logo=archlinux&logoColor=00B4D8" />
-</p>
-
----
-
-<!-- STATISTIK GITHUB -->
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickoharvioni12-web&show_icons=true&bg_color=03045E&title_color=00B4D8&text_color=CAF0F8&icon_color=48CAE4&border_color=0077B6" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&bg_color=03045E&title_color=00B4D8&text_color=CAF0F8&border_color=0077B6" alt="Bahasa Populer" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickoharvioni12-web&background=03045E&ring=00B4D8&fire=48CAE4&currStreakNum=CAF0F8&currStreakLabel=00B4D8&sideNums=CAF0F8&sideLabels=90E0EF&dates=0077B6&border=0077B6" alt="GitHub Streak" width="97%" />
-</p>
+```bash
+$ cat about_me.txt
+> Passionate Web Developer building fast, scalable applications.
+> Experienced with Node.js backends, Python automation, and Linux servers.
+> Always diving deep into code like swimming in the ocean 🏊‍♂️.

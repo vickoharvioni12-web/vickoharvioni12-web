@@ -61,9 +61,9 @@
 
 ---
 
-### ⚡ Backend Activity Terminal
+### ⚡ Backend System Status
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+new+BackendDeveloper('Vicko')%3B;developer.buildScalableAPIs()%3B;developer.optimizeDatabases()%3B" alt="Terminal Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=120&section=header&text=Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" />
 </p>
 
 

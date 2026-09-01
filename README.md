@@ -61,6 +61,12 @@
 
 ---
 
+### ⚡ Backend Development Status
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=120&section=header&text=Building%20Scalable%20Backend%20Systems...&fontSize=22&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" />
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer" />
 </p>

@@ -39,9 +39,9 @@
 
 ---
 
-### ⚡ Contribution Activity Chart
+### ⚡ Achievements & Trophies
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/vickoharvioni12-web?chart=activity&theme=dark" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vickoharvioni12-web&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---

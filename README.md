@@ -1,20 +1,7 @@
-import base64
+<div align="center">
 
-# Open the original image uploaded by user in prompt 1
-with open('download.jpg', 'rb') as f:
-    img_data = f.read()
-
-b64_str = base64.b64encode(img_data).decode('utf-8')
-data_uri = f"data:image/jpeg;base64,{b64_str}"
-
-# Print length check
-print("Base64 string length:", len(data_uri))
-
-# Create full markdown code using Base64 URI so it NEVER breaks or needs upload
-readme_content = f"""<div align="center">
-
-  <!-- BANNER PIXEL ART SAMUDRA (BASE64 INLINE - PASTI MUNCUL TANPA UPLOAD) -->
-  <img src="{data_uri}" alt="Vicko Harvioni Pixel Ocean Banner" width="100%" style="border-radius: 8px;" />
+  <!-- BANNER PIXEL ART SAMUDRA -->
+  <img src="https://github.com/user-attachments/assets/21f7118a-d61d-4e9f-864b-4285359dc317" alt="Vicko Harvioni Pixel Ocean Banner" width="100%" />
 
   <br/><br/>
 

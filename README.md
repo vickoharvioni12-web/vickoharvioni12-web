@@ -20,9 +20,9 @@
 <br />
 
 ### 🚀 About Me
-- 🔭 Currently engineering scalable backend systems, REST APIs, and database architectures.
-- 🎯 Focused on system design, microservices, and server performance optimization.
-- ⚡ Fun fact: I enjoy turning complex business logic into efficient code.
+- 🔭 **Focus:** Engineering scalable backend systems, REST APIs, and database architectures.
+- 🎯 **Goal:** System design, microservices, and server performance optimization.
+- ⚡ **Fun Fact:** I enjoy turning complex business logic into efficient code.
 
 ---
 

@@ -39,11 +39,18 @@
 
 ---
 
-### ⚡ Snake Contribution Graph
+### ⚡ Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/vickoharvioni12-web?chart=activity&theme=dark" alt="Activity Graph" width="100%" />
 </p>
 
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 ---
 
 ### 📈 GitHub Analytics

@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- BANNER PROFILE -->
-  <img src="https://raw.githubusercontent.com/username/repository/main/banner.png" alt="Header Banner" width="100%" />
+  <img src="./banner.png" alt="Header Banner" width="100%" />
 
-  <h1>🌊 Hi there, I'm a Web Developer! 👋</h1>
+  <h1>🌊 Hi there, I'm Vicko Harvioni! 👋</h1>
   
-  <p><b>Backend & Frontend Specialist | Linux Enthusiast</b></p>
+  <p><b>Web Developer | Node.js & Python Specialist | Linux Enthusiast</b></p>
 
   <!-- TECH STACK BADGES -->
   <p>
@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 ```bash
-$ cat about_me.txt
-> Passionate Web Developer building fast, scalable applications.
-> Experienced with Node.js backends, Python automation, and Linux servers.
+$ cat vicko_harvioni.txt
+> Hi, I'm Vicko Harvioni — a Web Developer building fast & scalable applications.
+> Focused on Node.js backends, Python automation, web dev, and Linux environments.
 > Always diving deep into code like swimming in the ocean 🏊‍♂️.

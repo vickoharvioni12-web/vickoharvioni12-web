@@ -39,9 +39,9 @@
 
 ---
 
-### ⚡ Achievements & Trophies
+### ⚡ Isometric Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vickoharvioni12-web&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickoharvioni12-web&theme=tokyonight" alt="Isometric Chart" width="100%" />
 </p>
 
 ---

@@ -1,11 +1,24 @@
-<div align="center">
+import base64
 
-  <!-- BANNER UTAMA (UPLOAD GAMBAR KAMU KE REPO & BERI NAMA 'banner.png') -->
-  <img src="banner.png" alt="Vicko Harvioni Pixel Ocean Banner" width="100%" />
+# Open the original image uploaded by user in prompt 1
+with open('download.jpg', 'rb') as f:
+    img_data = f.read()
+
+b64_str = base64.b64encode(img_data).decode('utf-8')
+data_uri = f"data:image/jpeg;base64,{b64_str}"
+
+# Print length check
+print("Base64 string length:", len(data_uri))
+
+# Create full markdown code using Base64 URI so it NEVER breaks or needs upload
+readme_content = f"""<div align="center">
+
+  <!-- BANNER PIXEL ART SAMUDRA (BASE64 INLINE - PASTI MUNCUL TANPA UPLOAD) -->
+  <img src="{data_uri}" alt="Vicko Harvioni Pixel Ocean Banner" width="100%" style="border-radius: 8px;" />
 
   <br/><br/>
 
-  <h1>🌊 Hi, I'm Vicko Harvioni!</h1>
+  <h1>🌊 Hi there, I'm Vicko Harvioni! 👋</h1>
   <p><b>Web Developer | Node.js & Python Specialist | Linux Enthusiast</b></p>
 
   <!-- TECH STACK BADGES -->
@@ -25,6 +38,6 @@
 
 ```bash
 $ cat vicko_harvioni.txt
-> Hi! I'm Vicko Harvioni — a Web Developer focused on building clean and efficient code.
-> Tech stack: Node.js, Python, Web Development, and Linux System Administration.
-> Always learning and exploring new technologies.
+> Hi! I'm Vicko Harvioni — a Web Developer focused on building clean and efficient applications.
+> Primary focus: Node.js backend, Python automation, modern Web Development, and Linux.
+> Always exploring new technologies like diving into the deep ocean 🌊.

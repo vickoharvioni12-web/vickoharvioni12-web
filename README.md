@@ -61,9 +61,9 @@
 
 ---
 
-### ⚡ Backend System Status
+### 🏆 Profile Trophies
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=120&section=header&text=Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vickoharvioni12-web&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 

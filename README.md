@@ -1,4 +1,4 @@
-# Hi there, I'm Vicko Harvioni 👋
+# Hi there, I'm Vicko Harvioni
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&fontColor=ffffff" alt="Header Banner" />

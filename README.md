@@ -48,9 +48,12 @@
 
 ### 📈 GitHub Analytics & Contribution
 
+<!-- Custom 3D Contribution Banner dengan Latar Belakang Gambar Monokrom -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/custom-3d-contrib.svg" width="100%" alt="GitHub 3D Profile & Background" />
+  <img src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/custom-3d-contrib.svg" width="100%" alt="GitHub 3D Contribution Profile" />
 </p>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />

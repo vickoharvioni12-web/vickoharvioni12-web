@@ -48,22 +48,36 @@
 
 ### 📈 GitHub Analytics & Contribution
 
-<!-- BANNER CUSTOM TERTUMPUK DENGAN FOTO MONOKROM -->
-<p align="center">
-  <svg width="850" height="420" viewBox="0 0 850 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- 1. Background Gambar Character Anime Monokrom -->
-    <image href="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/download.jpg" width="850" height="420" preserveAspectRatio="xMidYMid slice" opacity="0.45" />
-    
-    <!-- 2. Overlay Effect Gelap Meredupkan Latar Belakang -->
-    <rect width="850" height="420" fill="#0d1117" opacity="0.55" />
+<table border="0" width="100%">
+  <tr>
+    <td align="center" background="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/download.jpg" style="background-size: cover; background-position: center;">
+      <br />
+      <img src="profile-3d-contrib/profile-night-view.svg" width="95%" alt="GitHub 3D Contribution" />
+      <br />
+      <br />
+    </td>
+  </tr>
+</table>
 
-    <!-- 3. Grafik 3D Contribution di Tengah -->
-    <foreignObject x="0" y="20" width="850" height="380">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/profile-3d-contrib/profile-night-view.svg" style="width: 100%; max-width: 820px; opacity: 0.9;" />
-      </div>
-    </foreignObject>
-  </svg>
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer" alt="Footer Banner" />
 </p>
 
 <!-- STATS DAN SNAKE ANIMATION -->

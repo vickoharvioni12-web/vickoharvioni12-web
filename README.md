@@ -67,3 +67,16 @@
 </p>
 
 ![GitHub 3D Profile](profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <a href="https://github.com/vickoharvioni12-web">
+    <img src="download.jpg" width="100%" max-width="800px" alt="Header Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contribution" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=dark&hide=html,css,shell" alt="Top Languages" />
+</p>

@@ -48,18 +48,9 @@
 
 ### 📈 GitHub Analytics & Contribution
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" background="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/download.jpg" style="background-size: cover; background-position: center;">
-      <br />
-      <img src="profile-3d-contrib/profile-night-view.svg" width="95%" alt="GitHub 3D Contribution" />
-      <br />
-      <br />
-    </td>
-  </tr>
-</table>
-
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/main/custom-3d-contrib.svg" width="100%" alt="GitHub 3D Profile & Background" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -79,14 +70,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer" alt="Footer Banner" />
 </p>
-
-<!-- STATS DAN SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="
